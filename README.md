@@ -2,6 +2,7 @@
 ----> This To-Do List Manager program allows users to manage tasks by adding new tasks, marking them as completed, deleting tasks, and viewing tasks based on completion status. The code has distinct classes (Task and ToDoList) to encapsulate functionalities related to individual tasks and managing the to-do list.
 
 **Code Quality and Structure:**
+
 **Class Structure:** The Task class represents an individual task with its properties and methods. ToDoList class manages a collection of tasks and user interactions.
 
 **Encapsulation:** The task data and methods are encapsulated within the Task class.
@@ -9,6 +10,7 @@
 **User Interaction:** The main program loop handles user input and invokes methods on the ToDoList instance.
 
 **Implementation of Functional Requirements:**
+
 **Adding Tasks:** The add_task method allows users to add tasks with descriptions and optional due dates.
 
 **Marking Tasks as Completed:** mark_completed enables users to mark pending tasks as completed.
@@ -26,6 +28,7 @@
 **Error Handling:** Basic error handling is implemented, such as validating user inputs.
 
 **File Handling:**
+
 **Loading and Saving Tasks:** Tasks are loaded from and saved to a file (tasks.txt) to persist the to-do list between sessions.
 
 **Possible Improvements:**
