@@ -38,6 +38,7 @@
 **Builder Pattern:** Creating a separate builder class for tasks with more complex creation logic.
 
 **Error Handling Enhancement:** More robust error handling for user inputs to prevent unexpected crashes.
+
 **Enhanced User Interface:** Enhance the user interface for better user experience.
 
 **Explanation of Choices and Trade-offs:**
