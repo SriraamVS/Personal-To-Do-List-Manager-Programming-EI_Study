@@ -1,6 +1,5 @@
 # Personal-To-Do-List-Manager-Programming-EI_Study
-Personal To-Do List Manager Programming
-This To-Do List Manager program allows users to manage tasks by adding new tasks, marking them as completed, deleting tasks, and viewing tasks based on completion status. The code has distinct classes (Task and ToDoList) to encapsulate functionalities related to individual tasks and managing the to-do list.
+----> This To-Do List Manager program allows users to manage tasks by adding new tasks, marking them as completed, deleting tasks, and viewing tasks based on completion status. The code has distinct classes (Task and ToDoList) to encapsulate functionalities related to individual tasks and managing the to-do list.
 
 **Code Quality and Structure:**
 **Class Structure:** The Task class represents an individual task with its properties and methods. ToDoList class manages a collection of tasks and user interactions.
